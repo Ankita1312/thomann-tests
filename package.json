@@ -1,0 +1,25 @@
+{
+  "name": "thomann-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankita1312/thomann-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankita1312/thomann-tests/issues"
+  },
+  "homepage": "https://github.com/Ankita1312/thomann-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  },
+  "dependencies": {
+    "thomann-tests": "file:"
+  }
+}
